@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!-- sjm: Hi! This is for my class on day 1.-->
+    <root>
+    <intro>For the simplest of all slime recipes, all you need is <ing>cornstarch.</ing></intro>
+    <act num="1">Just dump some into a bowl, add <ing>some water</ing>,
+    </act> 
+    <act num="2"> &amp; start mixing.</act>
+    <act>Keep adding water until it reaches the consistency you want (a good place to start is 2
+        parts cornstarch to 1 part water).</act>
+    <act num="3" type="optional">You can also add <ing>food coloring</ing> to make it look more legit. </act>
+    </root>
