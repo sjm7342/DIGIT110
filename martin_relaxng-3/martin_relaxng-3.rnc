@@ -1,0 +1,11 @@
+start = root
+root = element {author, title, date, epigraph, chapter, book}
+author = element author
+title = element title
+date = element date
+epigraph = element epigraph {text, author}
+text = attribute text
+author = attribute author
+chapter = element chapter
+book = element book {quote}
+quote = attribute quote
