@@ -1,0 +1,3 @@
+start =  twinkie
+twinkie = element text {donut}
+donut = element stuff {text}

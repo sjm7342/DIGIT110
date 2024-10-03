@@ -1,0 +1,4 @@
+start = xml
+xml = element text {source, poem}
+source = element poetry
+poem = element poetry

@@ -1,5 +1,5 @@
 start = root
-root = element {author, title, date, epigraph, chapter, book}
+root = element root {author, title, date, epigraph, chapter, book}
 author = element author
 title = element title
 date = element date
